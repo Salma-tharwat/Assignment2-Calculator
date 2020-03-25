@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="str_item1">Multiply</string>
+    <string name="str_item2">Add</string>
+    <string name="str_item3">Subtract</string>
+    <string name="str_item4">Divide</string>
+</resources>
